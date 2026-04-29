@@ -1,5 +1,5 @@
 # 💫 About Me:
-Let me introduce myself, my name is Muhamad Rizki Aditya.<br>I am an Internal IT Coordinator Lead at Lumos Solution and also a Fullstack Web Development Enthusiast.<br>I have a strong interest in the world of programming, which allows me to be creative and become a reliable developer.
+My name is Muhamad Rizki Aditya.<br>I am an Internal IT Technician Lead at Lumos Solution and also a Fullstack Web Developer.<br>I have a strong interest in the world of programming, which allows me to be creative and become a reliable developer.
 
 
 ## 🌐 Socials:
